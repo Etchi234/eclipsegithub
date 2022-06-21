@@ -3,7 +3,7 @@ package actividad14;
 public class Main {
 
 	public static void main(String[] args) {
-		// Blanca estuvo aquí :)
+		// ¡Qué tengáis un buen día! :)
 
 	}
 
